@@ -6,3 +6,5 @@ now, we are working on the clonned repo and are learning about git pull.
 so yea, will update as i go, cya soon!
 
 committing chamges to main.
+
+date = 24/2/26
